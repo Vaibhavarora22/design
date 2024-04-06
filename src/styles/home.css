@@ -1,0 +1,19 @@
+.hm{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.brdr{
+    border-radius: 25px;
+}
+
+.cont{
+    display:flex;
+    
+}
+.line {
+    height: 100vh;
+    width: 1px; /* Width of the line */
+    background-color: black; /* Color of the line */
+    margin: 10 10px; /* Adjust margin as needed */
+}
